@@ -35,6 +35,7 @@
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhamr409/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shubhamr409/Leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0112-path-sum](https://github.com/shubhamr409/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhamr409/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -45,6 +46,7 @@
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhamr409/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shubhamr409/Leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0112-path-sum](https://github.com/shubhamr409/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamr409/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Tree
@@ -52,6 +54,7 @@
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhamr409/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shubhamr409/Leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0112-path-sum](https://github.com/shubhamr409/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhamr409/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -60,6 +63,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/shubhamr409/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhamr409/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
