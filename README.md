@@ -25,6 +25,7 @@
 | [0022-generate-parentheses](https://github.com/shubhamr409/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/shubhamr409/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/shubhamr409/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0113-path-sum-ii](https://github.com/shubhamr409/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhamr409/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shubhamr409/Leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/shubhamr409/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/shubhamr409/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shubhamr409/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhamr409/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -56,6 +58,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhamr409/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shubhamr409/Leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/shubhamr409/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/shubhamr409/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shubhamr409/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhamr409/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -66,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/shubhamr409/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/shubhamr409/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shubhamr409/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhamr409/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
