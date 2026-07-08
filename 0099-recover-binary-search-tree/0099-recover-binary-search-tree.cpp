@@ -9,37 +9,44 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+#define Node TreeNode
+#define null NULL
+
 class Solution {
 public:
-    void Inorder(TreeNode* root, vector<TreeNode*>& arr){
+    Node* prev = null;
+    Node* g1first = null;
+    Node* g1second = null;
+    Node* g2first= null;
+    Node* g2second = null;
+    int galat = 0;
+    void Inorder(TreeNode* root){
         if(root == nullptr){
             return;
         }
-        Inorder(root->left, arr);
-        arr.push_back(root);
-        Inorder(root->right, arr);
-    }
-    void recoverTree(TreeNode* root) {
-        vector<TreeNode*> res;
-        Inorder(root, res);
-        int galat = 0;
-        int g1first = 0, g1second = 0, g2first= 0, g2second = 0;
-        for(int i = 0; i < res.size()-1; i++){
-            if(res[i]->val > res[i+1]->val){
+        Inorder(root->left);
+        if(prev == null) prev = root;
+        else{
+            if(root->val < prev->val){
                 if(galat == 0){
-                    g1first = i;
-                    g1second = i+1;
+                    g1first = prev;
+                    g1second = root;
                     galat++;
                 }
                 else{
-                    g2first = i;
-                    g2second = i+1;
+                    g2first = prev;
+                    g2second = root;
                     galat++;
                 }
             }
+            prev = root;
         }
-        if(galat == 1) swap(res[g1first]->val, res[g1second]->val);
-        else swap(res[g1first]->val, res[g2second]->val);
+        Inorder(root->right);
+    }
+    void recoverTree(TreeNode* root) {
+        Inorder(root);
+        if(galat == 1) swap(g1first->val, g1second->val);
+        else swap(g1first->val, g2second->val);
         return;
     }
 };
