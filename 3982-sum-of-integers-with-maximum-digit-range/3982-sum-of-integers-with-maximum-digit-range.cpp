@@ -1,27 +1,26 @@
 class Solution {
 public:
     int maxDigitRange(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> range;
-        for(int i = 0; i < n; i++){
-            int maxi = INT_MIN;
-            int mini = INT_MAX;
-            int num = nums[i];
-            while(num){
+        int max_range = -1;
+        int sum = 0;
+        for (int num : nums) {
+            int original_num = num;
+            int maxi = 0;
+            int mini = 9;
+            while (num > 0) {
                 int dig = num % 10;
                 num /= 10;
-                maxi = max(maxi, dig);
-                mini = min(mini, dig);
+                if (dig > maxi) maxi = dig;
+                if (dig < mini) mini = dig;
             }
-            range.push_back(maxi-mini);
-        }
-        int max_range = range[0];
-        for(int i = 1; i < n; i++){
-            if(range[i] > max_range) max_range = range[i];
-        }
-        int sum = 0;
-        for(int i = 0; i < n; i++){
-            if(range[i] == max_range) sum += nums[i];
+            int current_range = maxi - mini;
+            if (current_range > max_range) {
+                max_range = current_range;
+                sum = original_num; 
+            } 
+            else if (current_range == max_range) {
+                sum += original_num;
+            }
         }
         return sum;
     }
