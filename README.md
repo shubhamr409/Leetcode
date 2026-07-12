@@ -34,6 +34,7 @@
 | [0046-permutations](https://github.com/shubhamr409/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhamr409/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0200-number-of-islands](https://github.com/shubhamr409/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/shubhamr409/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@
 | [0226-invert-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamr409/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [0994-rotting-oranges](https://github.com/shubhamr409/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,4 +128,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/shubhamr409/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/shubhamr409/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
