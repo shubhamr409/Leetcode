@@ -62,6 +62,7 @@
 | [0200-number-of-islands](https://github.com/shubhamr409/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamr409/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/shubhamr409/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/shubhamr409/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
@@ -97,6 +98,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shubhamr409/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamr409/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/shubhamr409/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,9 +126,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/shubhamr409/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/shubhamr409/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/shubhamr409/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/shubhamr409/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/shubhamr409/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
