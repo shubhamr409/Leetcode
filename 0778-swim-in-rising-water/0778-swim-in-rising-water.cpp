@@ -1,36 +1,45 @@
 class Solution {
 public:
-    vector<vector<int>> directions{{1,0}, {-1,0}, {0,1}, {0, -1}};
-    bool possibleToReach(vector<vector<int>>& grid, int n, int i, int j, int t, vector<vector<bool>>& visited){
-        if(i < 0 || i >= n || j < 0 || j >= n || visited[i][j] == true || grid[i][j] > t){
-            return false;
-        }
-        visited[i][j] = true;
-        if(i == n-1 && j == n-1) return true;
-        for(auto &dir : directions){
-            int i_ = i + dir[0];
-            int j_ = j + dir[1];
-
-            if(possibleToReach(grid, n, i_, j_, t, visited)){
-                return true;
-            }
-        }
-        return false;
+    bool valid(int i, int j, int n){
+        if(i < 0 || i >= n || j < 0 || j >= n) return false;
+        return true;
     }
     int swimInWater(vector<vector<int>>& grid) {
         int n = grid.size();
-        int l = grid[0][0];
-        int r = n*n - 1;
-        int res = 0;
-        while(l <= r){
-            int mid = l + (r-l) / 2;
-            vector<vector<bool>> visited(n, vector<bool>(n, false));
-            if(possibleToReach(grid, n, 0, 0, mid, visited)){
-                res = mid;
-                r = mid - 1;
-            }
-            else l = mid + 1;
+        vector<vector<int>> res(n);
+        for(int i = 0; i < n; i++){
+            vector<int> t(n, INT_MAX);
+            res[i] = t;
         }
-        return res;
+
+        priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<pair<int, pair<int, int>>>> pq;
+        int x[4] = {1, -1, 0, 0};
+        int y[4] = {0, 0, 1, -1};
+        res[0][0] = grid[0][0];
+        pq.push({grid[0][0], {0, 0}});
+
+        while(!pq.empty()){
+            pair<int, pair<int, int>> p = pq.top();
+            pq.pop();
+            int currTime = p.first;
+            int row = p.second.first;
+            int col = p.second.second;
+
+            if (row == n - 1 && col == n - 1)
+                return currTime;
+            
+            if(currTime > res[row][col]) continue;
+            for(int k = 0; k < 4; k++){
+                int r = row + x[k];
+                int c = col + y[k];
+                if(!valid(r, c, n)) continue;
+                int nextTime = max(currTime, grid[r][c]);
+                if(nextTime < res[r][c]){
+                    res[r][c] = nextTime;
+                    pq.push({nextTime, {r, c}});
+                }
+            }
+        }
+        return -1;
     }
 };
