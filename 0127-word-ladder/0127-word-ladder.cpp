@@ -7,7 +7,7 @@ public:
             f[wordList[i]] = 1;
         }
         if(f.find(beginWord) == f.end()) f[beginWord] = 1;
-        if(f.find(endWord) == f.end()) return 0;
+        // if(f.find(endWord) == f.end()) return 0;
 
         queue<pair<string, int>> q;
         q.push({beginWord, 1});
