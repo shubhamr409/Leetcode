@@ -6,7 +6,7 @@ public:
         for(int i = 0; i < n; i++){
             f[wordList[i]] = 1;
         }
-        if(f.find(beginWord) == f.end()) f[beginWord] = 1;
+        // if(f.find(beginWord) == f.end()) f[beginWord] = 1;
         // if(f.find(endWord) == f.end()) return 0;
 
         queue<pair<string, int>> q;
