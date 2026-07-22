@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shubhamr409/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhamr409/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/shubhamr409/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamr409/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamr409/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## String
@@ -14,6 +15,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shubhamr409/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/shubhamr409/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0127-word-ladder](https://github.com/shubhamr409/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamr409/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -63,6 +65,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhamr409/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shubhamr409/Leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/shubhamr409/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0127-word-ladder](https://github.com/shubhamr409/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/shubhamr409/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/shubhamr409/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
