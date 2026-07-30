@@ -6,7 +6,7 @@ public:
         for(int i : arr) sum += i;
         if(sum % 2 == 1) return false;
         sum = sum / 2;
-        
+
         vector<vector<int>> dp(n+1);
         for(int i = 0; i <= n; i++){
             vector<int> t(sum+1, -1);
