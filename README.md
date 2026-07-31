@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/shubhamr409/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0062-unique-paths](https://github.com/shubhamr409/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/shubhamr409/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/shubhamr409/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/shubhamr409/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -192,6 +193,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/shubhamr409/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/shubhamr409/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/shubhamr409/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
@@ -203,4 +205,8 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/shubhamr409/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/shubhamr409/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/shubhamr409/Leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
