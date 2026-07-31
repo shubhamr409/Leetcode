@@ -35,6 +35,7 @@
 | [0509-fibonacci-number](https://github.com/shubhamr409/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shubhamr409/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/shubhamr409/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/shubhamr409/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@
 | [0494-target-sum](https://github.com/shubhamr409/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/shubhamr409/Leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0994-rotting-oranges](https://github.com/shubhamr409/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/shubhamr409/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/shubhamr409/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -221,4 +223,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhamr409/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/shubhamr409/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 <!---LeetCode Topics End-->
