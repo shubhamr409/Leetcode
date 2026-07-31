@@ -16,6 +16,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shubhamr409/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/shubhamr409/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0127-word-ladder](https://github.com/shubhamr409/Leetcode/tree/main/0127-word-ladder/) | Hard |
+| [1143-longest-common-subsequence](https://github.com/shubhamr409/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamr409/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@
 | [0494-target-sum](https://github.com/shubhamr409/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/shubhamr409/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shubhamr409/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/shubhamr409/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
