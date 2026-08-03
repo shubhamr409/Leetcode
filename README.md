@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shubhamr409/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shubhamr409/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0049-group-anagrams](https://github.com/shubhamr409/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhamr409/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/shubhamr409/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0217-contains-duplicate](https://github.com/shubhamr409/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -18,6 +19,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shubhamr409/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/shubhamr409/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0049-group-anagrams](https://github.com/shubhamr409/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0127-word-ladder](https://github.com/shubhamr409/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0242-valid-anagram](https://github.com/shubhamr409/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/shubhamr409/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -55,6 +57,7 @@
 | [0001-two-sum](https://github.com/shubhamr409/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0039-combination-sum](https://github.com/shubhamr409/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/shubhamr409/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0049-group-anagrams](https://github.com/shubhamr409/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhamr409/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamr409/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhamr409/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -232,6 +235,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/shubhamr409/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/shubhamr409/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shubhamr409/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shubhamr409/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
