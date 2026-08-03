@@ -10,6 +10,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhamr409/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/shubhamr409/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0217-contains-duplicate](https://github.com/shubhamr409/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/shubhamr409/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamr409/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamr409/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## String
@@ -18,6 +19,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shubhamr409/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/shubhamr409/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0127-word-ladder](https://github.com/shubhamr409/Leetcode/tree/main/0127-word-ladder/) | Hard |
+| [0242-valid-anagram](https://github.com/shubhamr409/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/shubhamr409/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamr409/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Dynamic Programming
@@ -231,5 +233,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/shubhamr409/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/shubhamr409/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shubhamr409/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 <!---LeetCode Topics End-->
