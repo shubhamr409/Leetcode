@@ -12,6 +12,7 @@
 | [0127-word-ladder](https://github.com/shubhamr409/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0217-contains-duplicate](https://github.com/shubhamr409/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shubhamr409/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/shubhamr409/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamr409/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamr409/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## String
@@ -68,6 +69,7 @@
 | [0200-number-of-islands](https://github.com/shubhamr409/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/shubhamr409/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/shubhamr409/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/shubhamr409/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/shubhamr409/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/shubhamr409/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/shubhamr409/Leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -175,6 +177,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhamr409/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/shubhamr409/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +203,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shubhamr409/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/shubhamr409/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/shubhamr409/Leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shubhamr409/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -238,5 +242,18 @@
 | [0049-group-anagrams](https://github.com/shubhamr409/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/shubhamr409/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shubhamr409/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/shubhamr409/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shubhamr409/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shubhamr409/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shubhamr409/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shubhamr409/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
