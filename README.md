@@ -71,6 +71,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/shubhamr409/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shubhamr409/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/shubhamr409/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0455-assign-cookies](https://github.com/shubhamr409/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/shubhamr409/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/shubhamr409/Leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0860-lemonade-change](https://github.com/shubhamr409/Leetcode/tree/main/0860-lemonade-change/) | Easy |
@@ -173,6 +174,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/shubhamr409/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamr409/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -237,6 +239,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhamr409/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0455-assign-cookies](https://github.com/shubhamr409/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/shubhamr409/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -245,6 +248,7 @@
 | [0217-contains-duplicate](https://github.com/shubhamr409/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shubhamr409/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/shubhamr409/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0455-assign-cookies](https://github.com/shubhamr409/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shubhamr409/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -258,4 +262,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shubhamr409/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/shubhamr409/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
