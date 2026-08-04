@@ -29,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/shubhamr409/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0055-jump-game](https://github.com/shubhamr409/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/shubhamr409/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/shubhamr409/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamr409/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -59,6 +60,7 @@
 | [0039-combination-sum](https://github.com/shubhamr409/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/shubhamr409/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/shubhamr409/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0055-jump-game](https://github.com/shubhamr409/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhamr409/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamr409/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhamr409/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -240,6 +242,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/shubhamr409/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhamr409/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/shubhamr409/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/shubhamr409/Leetcode/tree/main/0860-lemonade-change/) | Easy |
