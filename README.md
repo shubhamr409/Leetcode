@@ -17,6 +17,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shubhamr409/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamr409/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamr409/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamr409/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -111,6 +112,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shubhamr409/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamr409/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -128,6 +130,7 @@
 | [0778-swim-in-rising-water](https://github.com/shubhamr409/Leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/shubhamr409/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shubhamr409/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/shubhamr409/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shubhamr409/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -149,6 +152,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shubhamr409/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamr409/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -171,6 +175,7 @@
 | [0778-swim-in-rising-water](https://github.com/shubhamr409/Leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/shubhamr409/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shubhamr409/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shubhamr409/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
