@@ -12,8 +12,9 @@ int y[4] = {0, 0, -1, 1};
         int n = grid.size();
         int m = grid[0].size();
         queue<pair<int, int>> q;
-        int fresh = 0;
         int time = 0;
+        int fresh = 0;
+
         for(int i = 0; i < n; i++){
             for(int j = 0; j < m; j++){
                 if(grid[i][j] == 2){
