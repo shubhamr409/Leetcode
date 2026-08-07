@@ -10,11 +10,7 @@ public:
     }
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>> dp(n);
-        for(int i = 0; i < n; i++){
-            vector<int> t(2, -1);
-            dp[i] = t;
-        }
+        vector<vector<int>> dp(n, vector<int>(2, -1));
         return fun(nums, n, 0, 1, dp);
     }
 };
