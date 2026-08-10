@@ -1,30 +1,23 @@
 class Solution {
 public:
     int getLargestOutlier(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        int s = 0;
-        int n = nums.size();
-        int ans = INT_MIN;
-        for(int i = 0;i<n;i++){
-            s+=nums[i];
-        }
-        for(int i = 0;i<n;i++){
-            int x = s-(2*nums[i]);
-            int lo = i+1,hi = n-1;
-            while(lo<=hi){
-                int mid = lo+(hi-lo)/2;
-                if(nums[mid] == x ) {if(x>ans) ans = x; break;}
-                else if(nums[mid] > x) hi = mid-1;
-                else lo = mid+1;
+       int n = nums.size();
+       unordered_map<int,int> freq;
+       long long tSum = 0;
+       for(auto &it: nums){
+        tSum+=it;
+        freq[it]++;
+       }
+
+       int ans = INT_MIN;
+       for(int i = 0 ; i < n ; i++){
+         int out = tSum - (2*nums[i]);
+         if(freq.find(out) != freq.end()){
+            if(out != nums[i] || freq[nums[i]] >= 2){
+                ans = max(ans , out);
             }
-            lo = 0;hi = i-1;
-            while(lo<=hi){
-                int mid = lo+(hi-lo)/2;
-                if(nums[mid] == x ) {if(x>ans) ans = x; break;}
-                else if(nums[mid] > x) hi = mid-1;
-                else lo = mid+1;
-            }
-        }
-        return ans;
+         }
+       }
+       return ans;
     }
 };
