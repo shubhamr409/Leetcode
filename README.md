@@ -27,6 +27,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhamr409/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0010-regular-expression-matching](https://github.com/shubhamr409/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shubhamr409/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/shubhamr409/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/shubhamr409/Leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -42,6 +43,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/shubhamr409/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/shubhamr409/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/shubhamr409/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/shubhamr409/Leetcode/tree/main/0055-jump-game/) | Medium |
@@ -277,6 +279,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/shubhamr409/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0509-fibonacci-number](https://github.com/shubhamr409/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
