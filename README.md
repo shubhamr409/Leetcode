@@ -23,6 +23,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1169-invalid-transactions](https://github.com/shubhamr409/Leetcode/tree/main/1169-invalid-transactions/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamr409/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/shubhamr409/Leetcode/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@
 | [1631-path-with-minimum-effort](https://github.com/shubhamr409/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/shubhamr409/Leetcode/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shubhamr409/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/shubhamr409/Leetcode/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,6 +327,7 @@
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shubhamr409/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/shubhamr409/Leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/shubhamr409/Leetcode/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -394,4 +397,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/shubhamr409/Leetcode/tree/main/0415-add-strings/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/shubhamr409/Leetcode/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
