@@ -115,6 +115,7 @@
 | [1631-path-with-minimum-effort](https://github.com/shubhamr409/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/shubhamr409/Leetcode/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shubhamr409/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/shubhamr409/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/shubhamr409/Leetcode/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -268,6 +269,7 @@
 | [0778-swim-in-rising-water](https://github.com/shubhamr409/Leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shubhamr409/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shubhamr409/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/shubhamr409/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -397,6 +399,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/shubhamr409/Leetcode/tree/main/0415-add-strings/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/shubhamr409/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
