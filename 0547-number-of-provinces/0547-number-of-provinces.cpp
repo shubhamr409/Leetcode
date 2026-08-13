@@ -15,6 +15,15 @@ class Solution {
             }
         }
     }
+    void dfs(int node, vector<vector<int>>& adjLs, vector<int>& vis) {
+        vis[node] = 1;
+
+        for (auto it : adjLs[node]) {
+            if (!vis[it]) {
+                dfs(it, adjLs, vis);
+            }
+        }
+    }
 public:
     int findCircleNum(vector<vector<int>>& isConnected) {
         int V = isConnected.size();
@@ -32,7 +41,8 @@ public:
         for(int i = 0; i < V; i++){
             if(!vis[i]){
                 cnt++;
-                bfs(i, adjList, vis);
+                // bfs(i, adjList, vis);
+                dfs(i, adjList, vis);
             }
         }
         return cnt;
