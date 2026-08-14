@@ -13,6 +13,6 @@ public:
                 cntPerfectSquares[i] = min(cntPerfectSquares[i], cntPerfectSquares[i - j*j] + 1);
             }
         }
-        return cntPerfectSquares.back();
+        return cntPerfectSquares[n];
     }
 };
