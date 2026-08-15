@@ -114,6 +114,7 @@
 | [0778-swim-in-rising-water](https://github.com/shubhamr409/Leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0860-lemonade-change](https://github.com/shubhamr409/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0994-rotting-oranges](https://github.com/shubhamr409/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/shubhamr409/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shubhamr409/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1169-invalid-transactions](https://github.com/shubhamr409/Leetcode/tree/main/1169-invalid-transactions/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shubhamr409/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -166,6 +167,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/shubhamr409/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/shubhamr409/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shubhamr409/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shubhamr409/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Tree
@@ -211,6 +213,7 @@
 | [0785-is-graph-bipartite](https://github.com/shubhamr409/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shubhamr409/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shubhamr409/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [1020-number-of-enclaves](https://github.com/shubhamr409/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shubhamr409/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -254,6 +257,7 @@
 | [0547-number-of-provinces](https://github.com/shubhamr409/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/shubhamr409/Leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/shubhamr409/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1020-number-of-enclaves](https://github.com/shubhamr409/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shubhamr409/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -263,6 +267,7 @@
 | [0733-flood-fill](https://github.com/shubhamr409/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/shubhamr409/Leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0994-rotting-oranges](https://github.com/shubhamr409/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/shubhamr409/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shubhamr409/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shubhamr409/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/shubhamr409/Leetcode/tree/main/1975-maximum-matrix-sum/) | Medium |
