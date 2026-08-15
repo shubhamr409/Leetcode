@@ -123,6 +123,7 @@
 | [2558-take-gifts-from-the-richest-pile](https://github.com/shubhamr409/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhamr409/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/shubhamr409/Leetcode/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shubhamr409/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -423,4 +424,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/shubhamr409/Leetcode/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shubhamr409/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 <!---LeetCode Topics End-->
