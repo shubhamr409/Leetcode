@@ -1,24 +1,4 @@
 class Solution {
-    int solve(int l, int r, vector<int>& cumSum, vector<vector<int>>& t){
-        if(l >= r) return 0;
-        if(t[l][r] != -1) return t[l][r];
-        int score = 0;
-        for(int mid = l; mid <= r-1; mid++){
-            int leftSum = cumSum[mid] - (l-1 >= 0 ? cumSum[l-1] : 0);
-            int rightSum = cumSum[r] - cumSum[mid];
-
-            if(leftSum < rightSum){
-                score = max(score, leftSum + solve(l, mid, cumSum, t));
-            }
-            else if(leftSum > rightSum){
-                score = max(score, rightSum + solve(mid+1, r, cumSum, t));
-            }
-            else{
-                score = max({score, leftSum + solve(l, mid, cumSum, t),  rightSum + solve(mid+1, r, cumSum, t)});
-            }
-        }
-        return t[l][r] = score;
-    }
 public:
     int stoneGameV(vector<int>& stoneValue) {
         int n = stoneValue.size();
@@ -27,7 +7,29 @@ public:
         for(int i = 1; i < n; i++){
             cumSum[i] = cumSum[i-1] + stoneValue[i];
         }
-        vector<vector<int>> t(501, vector<int>(501, -1));
-        return solve(0, n-1, cumSum, t);
+        vector<vector<int>> t(n+1, vector<int>(n+1, 0));
+
+        for(int l = n-1; l >= 0; l--){
+            for(int r = l+1; r < n; r++){
+
+                int score = 0;
+                for(int mid = l; mid <= r; mid++){
+                    int leftSum = cumSum[mid] - (l-1 >= 0 ? cumSum[l-1] : 0);
+                    int rightSum = cumSum[r] - cumSum[mid];
+
+                    if(leftSum < rightSum){
+                        score = max(score, leftSum + t[l][mid]);
+                    }
+                    else if(leftSum > rightSum){
+                        score = max(score, rightSum + t[mid+1][r]);
+                    }
+                    else{
+                        score = max({score, leftSum + t[l][mid],  rightSum + t[mid+1][r]});
+                    }
+                }
+                t[l][r] = score;
+            }
+        }
+        return t[0][n-1];
     }
 };
