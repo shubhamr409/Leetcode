@@ -131,6 +131,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shubhamr409/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/shubhamr409/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhamr409/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shubhamr409/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/shubhamr409/Leetcode/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shubhamr409/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shubhamr409/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -451,6 +452,7 @@
 | ------- | ------- |
 | [0415-add-strings](https://github.com/shubhamr409/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/shubhamr409/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shubhamr409/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
