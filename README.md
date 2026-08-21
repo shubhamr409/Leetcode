@@ -132,6 +132,7 @@
 | [2558-take-gifts-from-the-richest-pile](https://github.com/shubhamr409/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhamr409/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shubhamr409/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhamr409/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/shubhamr409/Leetcode/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shubhamr409/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shubhamr409/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -248,6 +249,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamr409/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/shubhamr409/Leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/shubhamr409/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhamr409/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,6 +326,7 @@
 | [1563-stone-game-v](https://github.com/shubhamr409/Leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1922-count-good-numbers](https://github.com/shubhamr409/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 | [2029-stone-game-ix](https://github.com/shubhamr409/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhamr409/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +343,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/shubhamr409/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhamr409/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -461,11 +465,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/shubhamr409/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhamr409/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shubhamr409/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0866-prime-palindrome](https://github.com/shubhamr409/Leetcode/tree/main/0866-prime-palindrome/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhamr409/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
