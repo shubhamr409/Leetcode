@@ -10,8 +10,7 @@ public:
             digSum += dig;
             digProd *= dig;
         }
-        digSum += digProd;
-        if(n % digSum == 0) return true;
+        if(n % (digSum + digProd) == 0) return true;
         return false;
     }
 };
