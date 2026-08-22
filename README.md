@@ -327,6 +327,7 @@
 | [1922-count-good-numbers](https://github.com/shubhamr409/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 | [2029-stone-game-ix](https://github.com/shubhamr409/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhamr409/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shubhamr409/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
