@@ -46,6 +46,7 @@
 | [1143-longest-common-subsequence](https://github.com/shubhamr409/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1169-invalid-transactions](https://github.com/shubhamr409/Leetcode/tree/main/1169-invalid-transactions/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamr409/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1927-sum-game](https://github.com/shubhamr409/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shubhamr409/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -325,6 +326,7 @@
 | [0866-prime-palindrome](https://github.com/shubhamr409/Leetcode/tree/main/0866-prime-palindrome/) | Medium |
 | [1563-stone-game-v](https://github.com/shubhamr409/Leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1922-count-good-numbers](https://github.com/shubhamr409/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
+| [1927-sum-game](https://github.com/shubhamr409/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/shubhamr409/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhamr409/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shubhamr409/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -355,6 +357,7 @@
 | [0621-task-scheduler](https://github.com/shubhamr409/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0860-lemonade-change](https://github.com/shubhamr409/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/shubhamr409/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1927-sum-game](https://github.com/shubhamr409/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/shubhamr409/Leetcode/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2029-stone-game-ix](https://github.com/shubhamr409/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shubhamr409/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -489,6 +492,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1563-stone-game-v](https://github.com/shubhamr409/Leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/shubhamr409/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/shubhamr409/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
