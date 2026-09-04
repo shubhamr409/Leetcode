@@ -567,6 +567,7 @@
 | [0620-not-boring-movies](https://github.com/shubhamr409/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/shubhamr409/Leetcode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/shubhamr409/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1070-product-sales-analysis-iii](https://github.com/shubhamr409/Leetcode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/shubhamr409/Leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/shubhamr409/Leetcode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/shubhamr409/Leetcode/tree/main/1148-article-views-i/) | Easy |
