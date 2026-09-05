@@ -151,6 +151,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shubhamr409/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shubhamr409/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shubhamr409/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3828-final-element-after-subarray-deletions](https://github.com/shubhamr409/Leetcode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/shubhamr409/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shubhamr409/Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/shubhamr409/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -353,6 +354,7 @@
 | [2029-stone-game-ix](https://github.com/shubhamr409/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhamr409/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shubhamr409/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3828-final-element-after-subarray-deletions](https://github.com/shubhamr409/Leetcode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/shubhamr409/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shubhamr409/Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Recursion
@@ -532,6 +534,7 @@
 | [1872-stone-game-viii](https://github.com/shubhamr409/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/shubhamr409/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/shubhamr409/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
+| [3828-final-element-after-subarray-deletions](https://github.com/shubhamr409/Leetcode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -593,4 +596,8 @@
 | [1934-confirmation-rate](https://github.com/shubhamr409/Leetcode/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/shubhamr409/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shubhamr409/Leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3828-final-element-after-subarray-deletions](https://github.com/shubhamr409/Leetcode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 <!---LeetCode Topics End-->
