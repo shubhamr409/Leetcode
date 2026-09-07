@@ -4,17 +4,6 @@ public:
     int dp[2001];
     vector<int> prev;
 
-    int solve(int n){
-        if(n == 0) return 1;
-        if(dp[n] != -1) return dp[n];
-        int total = (2 * solve(n-1)) % MOD;
-        if(prev[n] != 0){
-            int duplicates = solve(prev[n]-1);
-            total = (total - duplicates + MOD) % MOD;
-        }
-        return dp[n] = total;
-    }
-
     int distinctSubseqII(string s) {
         int n = s.size();
         memset(dp, -1, sizeof(dp));
@@ -26,6 +15,17 @@ public:
             prev[i] = lastSeen[idx];
             lastSeen[idx] = i;
         }
-        return (solve(n) - 1 + MOD) % MOD;
+
+        dp[0] = 1;
+
+        for(int i = 1; i <= n; i++){
+            int total = (2 * dp[i-1]) % MOD;
+            if(prev[i] != 0){
+                int duplicates = dp[prev[i] - 1];
+                total = (total - duplicates) % MOD;
+            }
+            dp[i] = total;
+        }
+        return (dp[n] - 1 + MOD) % MOD;
     }
 };
