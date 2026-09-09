@@ -6,7 +6,7 @@ public:
 
         while (n >= threshold) {
             ans += (n - threshold + 1);
-            if (threshold > LLONG_MAX / 1000) break;
+            // if (threshold > LLONG_MAX / 1000) break;
             threshold *= 1000;
         }
         return ans;
