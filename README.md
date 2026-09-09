@@ -360,6 +360,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shubhamr409/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/shubhamr409/Leetcode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3870-count-commas-in-range](https://github.com/shubhamr409/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/shubhamr409/Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/shubhamr409/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shubhamr409/Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Recursion
