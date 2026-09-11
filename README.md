@@ -28,6 +28,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shubhamr409/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/shubhamr409/Leetcode/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shubhamr409/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/shubhamr409/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shubhamr409/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shubhamr409/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shubhamr409/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -152,6 +153,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhamr409/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/shubhamr409/Leetcode/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shubhamr409/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/shubhamr409/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shubhamr409/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shubhamr409/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shubhamr409/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -372,6 +374,7 @@
 | [0010-regular-expression-matching](https://github.com/shubhamr409/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0509-fibonacci-number](https://github.com/shubhamr409/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1922-count-good-numbers](https://github.com/shubhamr409/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/shubhamr409/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -509,6 +512,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/shubhamr409/Leetcode/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/shubhamr409/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shubhamr409/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shubhamr409/Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Bit Manipulation
