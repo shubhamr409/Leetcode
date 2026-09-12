@@ -89,6 +89,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shubhamr409/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1563-stone-game-v](https://github.com/shubhamr409/Leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/shubhamr409/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shubhamr409/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +155,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shubhamr409/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhamr409/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/shubhamr409/Leetcode/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shubhamr409/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shubhamr409/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/shubhamr409/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shubhamr409/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -282,6 +284,7 @@
 | [0778-swim-in-rising-water](https://github.com/shubhamr409/Leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/shubhamr409/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhamr409/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shubhamr409/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -419,6 +422,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/shubhamr409/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shubhamr409/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shubhamr409/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shubhamr409/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
