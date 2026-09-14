@@ -362,6 +362,7 @@
 | [0279-perfect-squares](https://github.com/shubhamr409/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0415-add-strings](https://github.com/shubhamr409/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/shubhamr409/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0836-rectangle-overlap](https://github.com/shubhamr409/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0866-prime-palindrome](https://github.com/shubhamr409/Leetcode/tree/main/0866-prime-palindrome/) | Medium |
 | [1563-stone-game-v](https://github.com/shubhamr409/Leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/shubhamr409/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -624,4 +625,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3828-final-element-after-subarray-deletions](https://github.com/shubhamr409/Leetcode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/shubhamr409/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
