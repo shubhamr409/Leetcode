@@ -54,6 +54,7 @@
 | [1169-invalid-transactions](https://github.com/shubhamr409/Leetcode/tree/main/1169-invalid-transactions/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamr409/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1927-sum-game](https://github.com/shubhamr409/Leetcode/tree/main/1927-sum-game/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubhamr409/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shubhamr409/Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shubhamr409/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shubhamr409/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -89,6 +90,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shubhamr409/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1563-stone-game-v](https://github.com/shubhamr409/Leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/shubhamr409/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubhamr409/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shubhamr409/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -296,6 +298,7 @@
 | [0455-assign-cookies](https://github.com/shubhamr409/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamr409/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shubhamr409/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubhamr409/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shubhamr409/Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -410,6 +413,7 @@
 | [2029-stone-game-ix](https://github.com/shubhamr409/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shubhamr409/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shubhamr409/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubhamr409/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shubhamr409/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
