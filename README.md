@@ -89,6 +89,7 @@
 | [1143-longest-common-subsequence](https://github.com/shubhamr409/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shubhamr409/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1563-stone-game-v](https://github.com/shubhamr409/Leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shubhamr409/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/shubhamr409/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubhamr409/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shubhamr409/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -368,6 +369,7 @@
 | [0836-rectangle-overlap](https://github.com/shubhamr409/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0866-prime-palindrome](https://github.com/shubhamr409/Leetcode/tree/main/0866-prime-palindrome/) | Medium |
 | [1563-stone-game-v](https://github.com/shubhamr409/Leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shubhamr409/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/shubhamr409/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1922-count-good-numbers](https://github.com/shubhamr409/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 | [1927-sum-game](https://github.com/shubhamr409/Leetcode/tree/main/1927-sum-game/) | Medium |
@@ -397,6 +399,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/shubhamr409/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shubhamr409/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhamr409/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -466,6 +469,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/shubhamr409/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/shubhamr409/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamr409/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shubhamr409/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/shubhamr409/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/shubhamr409/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/shubhamr409/Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
