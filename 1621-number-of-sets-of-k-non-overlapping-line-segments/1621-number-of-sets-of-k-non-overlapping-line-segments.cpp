@@ -1,24 +1,39 @@
+#define ll long long
 class Solution {
 public:
-    int M = 1e9 + 7;
-    int dp[1001][1001];
-    int numberOfSets(int n, int K) {
-        for(int i = 0; i <= n; i++){
-            dp[0][i] = (i < n) ? 1 : 0;
+    vector<ll> fact;
+    vector<ll> invFact;
+    const int MOD = 1e9+7;
+    //Binary Exponentiation
+    ll findPower(ll a, ll b) {
+        if(b == 0)
+            return 1;
+        ll half = findPower(a, b/2);
+        ll result = (half * half) % MOD;
+
+        if(b%2 == 1) {
+            result = (result * a) % MOD;
         }
-        for (int k = 1; k <= K; k++) {
-            vector<int> prevRowSum(n + 1, 0);
-            //prevRowSum[x] = dp[k-1][x] + dp[k-1][x+1] + ... + dp[k-1][n-1]
-            for (int x = n - 1; x >= 0; x--) {
-                prevRowSum[x] = (prevRowSum[x + 1] + dp[k - 1][x]) % M;
-            }
-            for(int i = n - 1; i >= 0; i--){
-                int skip = dp[k][i + 1];
-                int take = prevRowSum[i+1];
-                //dp[k-1][i+1] + dp[k-1][i+2] ...... + dp[k-1][n-1]
-                dp[k][i] = (take + skip) % M;
-            }
+        return result;
+    }
+
+    //nCr % MOD
+    ll nCr(int n, int r) {
+        //nCr = n! * inv(n-r)! * inv(r)!
+        return (((fact[n] * invFact[r]) % MOD) * invFact[n-r]) % MOD;
+    }
+
+    int numberOfSets(int n, int k) {
+        //Precompute factoriala and inverse factorials - required for Fermat's Little Theorem
+        fact.assign(n+k, 1);
+        invFact.assign(n+k, 1);
+        for(int i = 2; i < n+k; i++) {
+            fact[i] = (fact[i-1] * i) % MOD;
         }
-        return dp[K][0];
+        //Fermat's little theorem for inverse factorials
+        for(int i = 0; i < n+k; i++) {
+            invFact[i] = findPower(fact[i], MOD-2);
+        }
+        return nCr(n+k-1, 2*k);
     }
 };
