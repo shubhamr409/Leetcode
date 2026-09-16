@@ -3,21 +3,8 @@ public:
 int n;
 vector<vector<bool>> isPalindrome;
 vector<int> t;
-    int solve(string& s, int len, int k){
-        if(len < k) return 0;
-
-        if(t[len] != -1) return t[len];
-
-        int result = solve(s, len-1, k);
-        int j = len-1;
-        for(int i = 0; j-i+1 >= k; i++){
-            if(isPalindrome[i][j]) result = max(result,1+solve(s, i, k));
-        }
-        return t[len] = result;
-    }
     int maxPalindromes(string s, int k) {
         n = s.size();
-        if(k == 1) return n;
         isPalindrome.assign(n+1, vector<bool>(n+1, false));
         for(int L = 1; L <= n; L++){
             for(int i = 0; i + L <= n; i++){
@@ -31,6 +18,17 @@ vector<int> t;
         }
         t.assign(n+1, -1);
 
-        return solve(s, n, k);
+        for(int len = 0; len < k; len++) t[len] = 0;
+
+        for(int len = k; len <= n; len++){
+            int result = t[len-1];
+            int j = len-1;
+            for(int i = 0; j-i+1 >= k; i++){
+                if(isPalindrome[i][j]) result = max(result, 1+t[i]);
+            }
+            t[len] = result;
+        }
+
+        return t[n];
     }
 };
