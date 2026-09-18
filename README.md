@@ -24,6 +24,7 @@
 | [1169-invalid-transactions](https://github.com/shubhamr409/Leetcode/tree/main/1169-invalid-transactions/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/shubhamr409/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shubhamr409/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shubhamr409/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamr409/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/shubhamr409/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhamr409/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -53,6 +54,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/shubhamr409/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/shubhamr409/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1169-invalid-transactions](https://github.com/shubhamr409/Leetcode/tree/main/1169-invalid-transactions/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shubhamr409/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamr409/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1927-sum-game](https://github.com/shubhamr409/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubhamr409/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -415,6 +417,7 @@
 | [0621-task-scheduler](https://github.com/shubhamr409/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0860-lemonade-change](https://github.com/shubhamr409/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/shubhamr409/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shubhamr409/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/shubhamr409/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/shubhamr409/Leetcode/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2029-stone-game-ix](https://github.com/shubhamr409/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
@@ -432,6 +435,7 @@
 | [0455-assign-cookies](https://github.com/shubhamr409/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/shubhamr409/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [1169-invalid-transactions](https://github.com/shubhamr409/Leetcode/tree/main/1169-invalid-transactions/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shubhamr409/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shubhamr409/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2094-finding-3-digit-even-numbers](https://github.com/shubhamr409/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shubhamr409/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
