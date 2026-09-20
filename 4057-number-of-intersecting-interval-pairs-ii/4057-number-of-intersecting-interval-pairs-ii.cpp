@@ -1,20 +1,25 @@
 class Solution {
 public:
     long long countIntersectingIntervals(vector<vector<int>>& intervals) {
-        int n = intervals.size();
-        sort(intervals.begin(), intervals.end());
-        long long count = 0;
-        
-        vector<int> starts(n);
-        for(int i = 0; i < n; i++){
-            starts[i] = intervals[i][0];
+        vector<pair<int, int>> events;
+        events.reserve(intervals.size() * 2);
+
+        for(const auto& iv : intervals){
+            events.push_back({iv[0], -1});
+            events.push_back({iv[1], 1});
         }
-
-        for(int i = 0; i < n; i++){
-            int curr_end = intervals[i][1];
-            auto it = upper_bound(starts.begin() + i + 1, starts.end(), curr_end);
-
-            count += (it - (starts.begin() + i+1));
+        sort(events.begin(), events.end());
+        long long count = 0;
+        long long active_intervals = 0;
+        
+        for(const auto& event : events){
+            if(event.second == -1){
+                count += active_intervals;
+                active_intervals++;
+            }
+            else{
+                active_intervals--;
+            }
         }
         return count;
     }
