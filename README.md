@@ -392,6 +392,7 @@
 | [0509-fibonacci-number](https://github.com/shubhamr409/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/shubhamr409/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0866-prime-palindrome](https://github.com/shubhamr409/Leetcode/tree/main/0866-prime-palindrome/) | Medium |
+| [1103-distribute-candies-to-people](https://github.com/shubhamr409/Leetcode/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shubhamr409/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1563-stone-game-v](https://github.com/shubhamr409/Leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shubhamr409/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -560,6 +561,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/shubhamr409/Leetcode/tree/main/0415-add-strings/) | Easy |
+| [1103-distribute-candies-to-people](https://github.com/shubhamr409/Leetcode/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/shubhamr409/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shubhamr409/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/shubhamr409/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
