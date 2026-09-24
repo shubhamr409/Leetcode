@@ -126,6 +126,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/shubhamr409/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/shubhamr409/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/shubhamr409/Leetcode/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/shubhamr409/Leetcode/tree/main/0135-candy/) | Hard |
 | [0139-word-break](https://github.com/shubhamr409/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shubhamr409/Leetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/shubhamr409/Leetcode/tree/main/0198-house-robber/) | Medium |
@@ -433,6 +434,7 @@
 | [0055-jump-game](https://github.com/shubhamr409/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhamr409/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/shubhamr409/Leetcode/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/shubhamr409/Leetcode/tree/main/0135-candy/) | Hard |
 | [0455-assign-cookies](https://github.com/shubhamr409/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/shubhamr409/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0860-lemonade-change](https://github.com/shubhamr409/Leetcode/tree/main/0860-lemonade-change/) | Easy |
