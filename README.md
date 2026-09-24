@@ -87,6 +87,7 @@
 | [0322-coin-change](https://github.com/shubhamr409/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/shubhamr409/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0403-frog-jump](https://github.com/shubhamr409/Leetcode/tree/main/0403-frog-jump/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/shubhamr409/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/shubhamr409/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/shubhamr409/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/shubhamr409/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -140,6 +141,7 @@
 | [0322-coin-change](https://github.com/shubhamr409/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shubhamr409/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0403-frog-jump](https://github.com/shubhamr409/Leetcode/tree/main/0403-frog-jump/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/shubhamr409/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/shubhamr409/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/shubhamr409/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/shubhamr409/Leetcode/tree/main/0494-target-sum/) | Medium |
@@ -303,6 +305,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/shubhamr409/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhamr409/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/shubhamr409/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/shubhamr409/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamr409/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/shubhamr409/Leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/shubhamr409/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -438,6 +441,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhamr409/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/shubhamr409/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/shubhamr409/Leetcode/tree/main/0135-candy/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/shubhamr409/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/shubhamr409/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/shubhamr409/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0860-lemonade-change](https://github.com/shubhamr409/Leetcode/tree/main/0860-lemonade-change/) | Easy |
@@ -503,6 +507,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shubhamr409/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/shubhamr409/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/shubhamr409/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamr409/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shubhamr409/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shubhamr409/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
