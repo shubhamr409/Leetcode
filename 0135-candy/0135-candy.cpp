@@ -16,10 +16,10 @@ public:
                 R2L[i] = max(R2L[i], R2L[i+1] + 1);
             }
         }
+        int ans = 0;
         for(int i = 0; i < n; i++){
-            L2R[i] = max(L2R[i], R2L[i]);
+            ans += max(L2R[i], R2L[i]);
         }
-        int ans = accumulate(L2R.begin(), L2R.end(), 0);
         return ans;
     }
 };
