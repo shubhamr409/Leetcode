@@ -52,6 +52,7 @@
 | [0139-word-break](https://github.com/shubhamr409/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0242-valid-anagram](https://github.com/shubhamr409/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/shubhamr409/Leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0402-remove-k-digits](https://github.com/shubhamr409/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0415-add-strings](https://github.com/shubhamr409/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/shubhamr409/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/shubhamr409/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -444,6 +445,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhamr409/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/shubhamr409/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/shubhamr409/Leetcode/tree/main/0135-candy/) | Hard |
+| [0402-remove-k-digits](https://github.com/shubhamr409/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shubhamr409/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/shubhamr409/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/shubhamr409/Leetcode/tree/main/0621-task-scheduler/) | Medium |
@@ -533,10 +535,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/shubhamr409/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0402-remove-k-digits](https://github.com/shubhamr409/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/shubhamr409/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0402-remove-k-digits](https://github.com/shubhamr409/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
