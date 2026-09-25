@@ -148,6 +148,7 @@
 | [0455-assign-cookies](https://github.com/shubhamr409/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/shubhamr409/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shubhamr409/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/shubhamr409/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamr409/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/shubhamr409/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0621-task-scheduler](https://github.com/shubhamr409/Leetcode/tree/main/0621-task-scheduler/) | Medium |
@@ -539,12 +540,14 @@
 | [0042-trapping-rain-water](https://github.com/shubhamr409/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0402-remove-k-digits](https://github.com/shubhamr409/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shubhamr409/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/shubhamr409/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/shubhamr409/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0402-remove-k-digits](https://github.com/shubhamr409/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shubhamr409/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/shubhamr409/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
