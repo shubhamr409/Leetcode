@@ -1,29 +1,46 @@
 class Solution {
 public:
-    void dfs(int u, vector<vector<int>>& adj, vector<bool>& vis){
-        vis[u] = true;
-        for(int neigh : adj[u]){
-            if(!vis[neigh]) dfs(neigh, adj, vis);
+        vector<int> parent, size;
+
+        int find(int x){
+            if(parent[x] == x) return x;
+            return parent[x] = find(parent[x]);
         }
-    }
+
+        void unite(int a, int b){
+            int rootA = find(a);
+            int rootB = find(b);
+
+            if(rootA == rootB) return;
+
+            if(size[rootA] < size[rootB]) swap(rootA, rootB);
+            parent[rootB] = rootA;
+            size[rootA] += size[rootB];
+        }
     int makeConnected(int n, vector<vector<int>>& connections) {
-        int m = connections.size();
-        if(m < n-1) return -1;
-        vector<bool> vis(n, 0);
-        vector<vector<int>> adj(n);
-        for(int i = 0; i < m; i++){
-            int a = connections[i][0];
-            int b = connections[i][1];
-            adj[a].push_back(b);
-            adj[b].push_back(a);
-        }
-        int x = 0;
+        parent.resize(n);
+        size.resize(n, 1);
+
         for(int i = 0; i < n; i++){
-            if(!vis[i]){
-                dfs(i, adj, vis);
-                x++;
-            } 
+            parent[i] = i;
         }
-        return x-1;
+
+        int extraEdges = 0;
+
+        for(auto &edge : connections){
+            int u = edge[0];
+            int v = edge[1];
+
+            if(find(u) == find(v)) extraEdges++;
+            else{
+                unite(u, v);
+            }
+        }
+        int components = 0;
+        for(int i = 0; i < n; i++){
+            if(find(i) == i) components++;
+        }
+        if(extraEdges >= components-1) return components-1;
+        return -1;
     }
 };
