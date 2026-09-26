@@ -114,6 +114,7 @@
 | [0022-generate-parentheses](https://github.com/shubhamr409/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/shubhamr409/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/shubhamr409/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/shubhamr409/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0113-path-sum-ii](https://github.com/shubhamr409/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0494-target-sum](https://github.com/shubhamr409/Leetcode/tree/main/0494-target-sum/) | Medium |
 ## Array
@@ -125,6 +126,7 @@
 | [0042-trapping-rain-water](https://github.com/shubhamr409/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/shubhamr409/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/shubhamr409/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/shubhamr409/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/shubhamr409/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhamr409/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamr409/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -729,4 +731,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/shubhamr409/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/shubhamr409/Leetcode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
