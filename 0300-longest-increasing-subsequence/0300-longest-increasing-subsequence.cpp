@@ -1,18 +1,37 @@
 class Solution {
 public:
-    int solve(vector<int>& nums, int n, int i, int prev, vector<vector<int>>& dp){
-        if(i == n) return 0;
-        if(dp[i][prev+1] != -1) return dp[i][prev+1];
-        if(prev == -1 || nums[i] > nums[prev]){
-            int c1 = 1 + solve(nums, n, i+1, i, dp);
-            int c2 = solve(nums, n, i+1, prev, dp);
-            return dp[i][prev+1] = max(c1, c2);
-        }
-        return dp[i][prev+1] = solve(nums, n, i+1, prev, dp);
-    }
     int lengthOfLIS(vector<int>& nums) {
-        int n = nums.size();
-        vector<vector<int>> dp(n+1, vector<int>(n+1, -1));
-        return solve(nums, n, 0, -1, dp);
+        int n=nums.size();
+        vector<int> sub;
+        sub.push_back(nums[0]);
+        for(int i=1;i<n;i++)
+        {
+            if(nums[i]> sub[sub.size()-1])sub.push_back(nums[i]);
+            else if(nums[i] == sub[sub.size()-1])continue;
+            else
+            {
+                int l=0,r=sub.size()-1;
+                int c=0;
+                while(l<=r)
+                {
+                    int m = l + (r-l)/2;
+                    if(sub[m] == nums[i])
+                    {
+                        c=1;break;
+                    }
+                    else if(sub[m]>nums[i])
+                    {
+                        r=m-1;
+                    }
+                    else 
+                    {
+                        l=m+1;
+                    }
+                }
+                if(c==1)continue;
+                if(sub[l] >= nums[i])sub[l]=nums[i];
+            }
+        }
+        return sub.size();
     }
 };
