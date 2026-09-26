@@ -102,6 +102,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shubhamr409/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/shubhamr409/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubhamr409/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/shubhamr409/Leetcode/tree/main/2684-maximum-number-of-moves-in-a-grid/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shubhamr409/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/shubhamr409/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Backtracking
@@ -176,6 +177,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/shubhamr409/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shubhamr409/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/shubhamr409/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/shubhamr409/Leetcode/tree/main/2684-maximum-number-of-moves-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shubhamr409/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhamr409/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shubhamr409/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -368,6 +370,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/shubhamr409/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shubhamr409/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/shubhamr409/Leetcode/tree/main/1975-maximum-matrix-sum/) | Medium |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/shubhamr409/Leetcode/tree/main/2684-maximum-number-of-moves-in-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shubhamr409/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
